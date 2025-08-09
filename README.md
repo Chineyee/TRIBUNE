@@ -1,8 +1,8 @@
-# Nexus Protocol
+# TRIBUNE
 
 **Decentralized Consensus Infrastructure for Collective Intelligence**
 
-Nexus Protocol is a Bitcoin-secured governance platform that enables communities to make decisions through distributed consensus mechanisms. Built on the Stacks blockchain, it leverages Bitcoin's security to create a trustless environment for organizational governance, resource allocation, and collective decision-making.
+TRIBUNE is a Bitcoin-secured governance platform that enables communities to make decisions through distributed consensus mechanisms. Built on the Stacks blockchain, it leverages Bitcoin's security to create a trustless environment for organizational governance, resource allocation, and collective decision-making.
 
 ##  Core Features
 

@@ -1,4 +1,4 @@
-;; Nexus Protocol - Decentralized Consensus Infrastructure
+;; TRIBUNE - Decentralized Consensus Infrastructure
 ;; A Bitcoin-secured network for distributed decision-making and collective intelligence
 
 ;; Constants
